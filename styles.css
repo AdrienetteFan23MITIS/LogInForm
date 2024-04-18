@@ -1,0 +1,17 @@
+
+ .div1 {
+    margin: 80px 100px 50px 80px;
+    border: 1px solid #4caf50;
+ }   
+ .div2 {
+    margin: 20px;
+    border: 1px solid #4caf50;
+ }
+ label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+ }
+ input{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: orange;
+ }
